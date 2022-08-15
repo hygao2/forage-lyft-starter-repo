@@ -1,6 +1,6 @@
 from abc import ABC
 import datetime
-from .battery import Battery
+from battery.battery import Battery
 
 from car import Car
 
